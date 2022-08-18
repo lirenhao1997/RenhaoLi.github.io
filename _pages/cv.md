@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. of Computer Science and Techonology, Sichuan Univerisity, 2020
+  * Sep. 2016 -- Jun. 2020, GPA: 3.39/4.0
+* M.S. of Electronic and Information, Sichuan Univerisity, 2023 (expected)
+  * Sep. 2020 -- present, GPA: 3.40/4.0
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
