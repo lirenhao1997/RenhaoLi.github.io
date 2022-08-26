@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my [Curriculum Vitae](/files/cv.pdf).
+Please kindly find my [Curriculum Vitae](/files/CV.pdf).
 
 Education Experience
 ======
