@@ -1,7 +1,7 @@
 ---
 title: "AdCSE: An Adversarial Method for Contrastive Learning of Sentence Embeddings"
 collection: publications
-permalink: /publication/2022-04-AdCSE
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022
 venue: 'DASFAA'
@@ -10,6 +10,6 @@ citation: 'Renhao Li, Lei Duan, Guicai Xie, Shan Xiao and Weipeng Jiang. AdCSE: 
 ---
 Due to the impressive results on semantic textual similarity (STS) tasks, unsupervised sentence embedding methods based on contrastive learning have attracted much attention from researchers. Most of these approaches focus on constructing high-quality positives, while only using other in-batch sentences for negatives which are insufficient for training accurate discriminative boundaries. In this paper, we demonstrate that high-quality negative representations introduced by adversarial training help to learn powerful sentence embeddings. We design a novel method named AdCSE for unsupervised sentence embedding. It consists of an untied dual-encoder backbone network for embedding positive sentence pairs and a group of negative adversaries for training hard negatives. These two parts of AdCSE compete against each other mutually in an adversarial way for contrastive learning, obtaining the most expressive sentence representations while achieving an equilibrium. Experiments on 7 STS tasks show the effectiveness of AdCSE. The superiority of AdCSE in constructing high-quality sentence embeddings is also validated by ablation studies and quality analysis of representations.
 
-[Download paper here](http://academicpages.github.io/files/2022-04-AdCSE.pdf)
+[Download paper here](http://academicpages.github.io/files/202204_AdCSE.pdf)
 
 Recommended citation: Renhao Li, Lei Duan, Guicai Xie, Shan Xiao and Weipeng Jiang. AdCSE: An Adversarial Method for Contrastive Learning of Sentence Embeddings[C]. International Conference on Database Systems for Advanced Applications, 2022, 165-180.
