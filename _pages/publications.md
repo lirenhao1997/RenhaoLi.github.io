@@ -19,7 +19,7 @@ redirect_from:
   [DASFAA 2021] International Conference on Database Systems for Advanced Applications \[[link](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_21)\] \[[pdf](/papers/2021_HMNet)\]
 
   
-  **Journal Papers**
+**Journal Papers**
 
 * A Generative Adversarial Negative Sampling Method for Knowledge Hypergraph Link Prediction <br>
   Z. Guo, J. Zuo, L. Duan, **<u>R. Li</u>**, C. He, Y. Xiao, P. Wang <br>
