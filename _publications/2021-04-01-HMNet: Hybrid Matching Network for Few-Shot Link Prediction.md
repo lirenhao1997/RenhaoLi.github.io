@@ -3,7 +3,7 @@ title: "HMNet: Hybrid Matching Network for Few-Shot Link Prediction"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021
+date: 2021-04-01
 venue: 'DASFAA'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-73194-6_21'
 citation: 'Shan Xiao, Lei Duan, Guicai Xie, Renhao Li, Zihao Chen, Geng Deng and Jyrki Nummenmaa. HMNet: Hybrid Matching Network for Few-Shot Link Prediction[C]. International Conference on Database Systems for Advanced Applications, 2021, 307-322.'
