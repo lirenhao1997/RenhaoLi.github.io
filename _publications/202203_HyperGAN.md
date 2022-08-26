@@ -1,7 +1,7 @@
 ---
 title: "A Generative Adversarial Negative Sampling Method for Knowledge Hypergraph Link Prediction"
 collection: publications
-permalink: /publication/202203_HyperGAN.md
+permalink: /publication/202203_HyperGAN
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022
 venue: 'Journal of Computer Research and Development'
