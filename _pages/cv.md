@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education experience
+Please kindly find my [Curriculum Vitae](/files/cv.pdf).
+
+Education Experience
 ======
-* M.S. of Electronic and Information, Sichuan Univerisity, 2023 (expected)
+* M.S. of Electronic Information, Sichuan Univerisity, 2023 (expected)
   * Sep. 2020 -- present, GPA: 3.40/4.0
   * Advisor: Professor Lei Duan
 * B.S. of Computer Science and Techonology, Sichuan Univerisity, 2020
