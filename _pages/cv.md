@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. of Computer Science and Techonology, Sichuan Univerisity, 2020
-  * Sep. 2016 -- Jun. 2020, GPA: 3.39/4.0
 * M.S. of Electronic and Information, Sichuan Univerisity, 2023 (expected)
   * Sep. 2020 -- present, GPA: 3.40/4.0
-
+  * Supervised by Prof. Lei Duan
+* B.S. of Computer Science and Techonology, Sichuan Univerisity, 2020
+  * Sep. 2016 -- Jun. 2020, GPA: 3.39/4.0
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
